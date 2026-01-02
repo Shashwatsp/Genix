@@ -1,17 +1,12 @@
 Genix (ai-com-gen)
 
-Professional summary
+Summary
 --------------------
 
 Genix is a modern frontend starter built with Vite and React, pre-configured for fast UI development and AI integrations. It includes Tailwind CSS for utility-first styling, PostCSS for processing, ESLint for quality checks, and developer tooling such as the Monaco editor and the Google GenAI client.
 
-Short description (for GitHub)
-------------------------------
-
-Vite + React frontend starter with Tailwind CSS and AI integrations (Google GenAI, Monaco Editor).
-
 What this project contains
-Genix (ai-com-gen)
+Genix (Ai-component-generator)
 
 Overview
 --------
@@ -27,14 +22,6 @@ Core features
 - Optional AI client integration: `@google/genai` (Google GenAI SDK).
 - Embedded code editor support via `@monaco-editor/react`.
 - Common UI and helper libraries: `react-router-dom`, `react-toastify`, `react-select`, `react-spinners`, `react-icons`.
-
-Short description (one-liner)
-----------------------------
-
-Vite + React frontend starter with Tailwind CSS and optional AI integrations (Google GenAI, Monaco Editor).
-
-Getting started
----------------
 
 Prerequisites
 - Node.js (LTS) and npm (or yarn / pnpm).
@@ -88,25 +75,7 @@ Project structure (high level)
 - `vite.config.js`, `tailwind.config.js`, `postcss.config.js` — build and styling configuration
 - `package.json` — scripts and dependency list
 
-Recommendations & next steps
-----------------------------
 
-- Add a `LICENSE` file to define usage terms (e.g., MIT).
-- Add a `.env.example` documenting required environment variables.
-- Add CI (GitHub Actions) for linting and build checks.
 
-Contributing
-------------
 
-Contributions are welcome. Open issues for bugs or feature requests and submit pull requests for changes. For large changes, open an issue first to discuss.
-
-License
--------
-
-Add a `LICENSE` file to this repository to specify the license.
-
-Contact
--------
-
-For questions or help, open an issue in the repository.
 
