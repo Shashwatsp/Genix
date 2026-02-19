@@ -1,4 +1,4 @@
-Genix (ai-com-gen)
+Genix (ai-component-generator)
 
 Summary
 --------------------
